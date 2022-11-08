@@ -1,1 +1,1 @@
-web: gunicorn prediction_marks:app
+web: gunicorn studentmp:app
